@@ -40,4 +40,4 @@ Single space required after argument.
 
 
 .SH AUTHOR
-Victor David Sarkibaka, Unogwu Otseogbu.
+Victor David Sarkibaka.
